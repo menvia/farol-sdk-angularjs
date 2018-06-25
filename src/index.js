@@ -12,7 +12,7 @@
     // then don't worry about creating a global
     // variable like you would in normal UMD.
     // It's not really helpful... Just call your factory
-    return factory(root.angular);
+    return factory(window.angular);
   }
 }(this, function(angular) {
   'use strict';

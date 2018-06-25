@@ -16,7 +16,11 @@ let job = function(cb, debug) {
   ];
   // If it is not in debug it will also uglify
   if (!debug) {
-    pumpSteps.push(uglify());
+    pumpSteps.push(uglify({
+      mangle: {
+        reserved: ['$injector'],
+      },
+    }));
   }
   pumpSteps.push(gulp.dest('dist'));
   pump(pumpSteps, cb);
