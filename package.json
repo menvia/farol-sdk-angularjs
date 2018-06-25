@@ -39,5 +39,9 @@
     "mocha": "^5.2.0",
     "pump": "^3.0.0",
     "upver": "^1.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.7.2",
+    "farol-sdk": "^1.9.132"
   }
 }

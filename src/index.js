@@ -19,7 +19,7 @@
   // create your angular module and do stuff
   let moduleName = 'FarolSDK';
   let mod = angular.module(moduleName, []);
-  mod.provider('FarolSDK', function($injector) {
+  mod.provider(moduleName, function($injector) {
     this.$get = function() {
       return FarolSDK;
     };

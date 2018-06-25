@@ -16,7 +16,7 @@ npm install angular-farol-sdk
 npm update angular-farol-sdk
 ```
 
-## Developing
+## Develop
 In order to develop the Farol Angular SDK for JavaScript we recommend that you first read the subsection based on the package manager you are using:
 
 In order to debug use ```gulp debug``` task. Read more bellow in *building* section.
@@ -33,13 +33,13 @@ Use ```npm link``` in the SDK project repository in order to store the link name
 
 On the project used to develop the library you can run ```npm link angular-farol-sdk``` and it will start using the development version from your SDK.
 
-## Building
+## Build
 
 We use gulp in order to build the Farol SDK for JavaScript. There are two different tasks that you can call from your terminal:
 - ```gulp``` will build the production version
 - ```gulp debug``` will build the debug version but will not uglify the code
 
-## Releasing
+## Publish
 
 In order to release a new version you shall follow the steps bellow:
 
