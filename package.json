@@ -2,7 +2,7 @@
   "name": "angular-farol-sdk",
   "version": "1.0.0",
   "description": "Farol SDK for AngularJS",
-  "main": "dist/farol-sdk.js",
+  "main": "dist/angular-farol-sdk.js",
   "scripts": {
     "version": "upver && gulp && git add -A",
     "postversion": "npm publish --access public",

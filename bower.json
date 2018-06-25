@@ -5,7 +5,7 @@
     "Felipe Plets <felipe.plets@menvia.com>"
   ],
   "description": "Farol SDK for AngularJS",
-  "main": "dist/farol-sdk.js",
+  "main": "dist/angular-farol-sdk.js",
   "keywords": [
     "farol"
   ],

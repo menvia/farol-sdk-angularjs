@@ -13,8 +13,15 @@ let job = function(cb, debug) {
     babel({
       presets: ['env'],
     }),
-    concat('farol-sdk.js'),
-    umd(),
+    concat('angular-farol-sdk.js'),
+    umd({
+      exports: function(file) {
+        return 'FarolSDK';
+      },
+      namespace: function(file) {
+        return 'FarolSDK';
+      },
+    }),
   ];
   // If it is not in debug it will also uglify
   if (!debug) {
