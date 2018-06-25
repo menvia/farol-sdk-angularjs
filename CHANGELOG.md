@@ -1,3 +1,7 @@
+## 1.0.2 / 2018.06.24
+#### Enhancement
+- Fix UMD to work with AngularJS
+
 ## 1.0.1 / 2018.06.24
 #### Enhancement
 - Fix for NPM repository
