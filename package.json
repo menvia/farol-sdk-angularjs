@@ -1,6 +1,6 @@
 {
   "name": "angular-farol-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Farol SDK for AngularJS",
   "main": "dist/angular-farol-sdk.js",
   "scripts": {
