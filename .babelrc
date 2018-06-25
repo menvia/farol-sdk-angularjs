@@ -1,0 +1,5 @@
+{
+  "presets": ["env"],
+  "ignore": ["dist/", "node_modules"],
+  "plugins": ["transform-remove-strict-mode"]
+}

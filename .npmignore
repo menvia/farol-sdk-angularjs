@@ -1,0 +1,9 @@
+src/*
+.babelrc
+.eslintignore
+.eslintrc.json
+.npmrc
+bower.json
+gulpfile.js
+yarn.lock
+upver.yml

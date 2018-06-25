@@ -1,0 +1,7 @@
+- file: src/index.js
+  search: 'version: (''.+\'')'
+  replacement: 'version: ''<@VERSION@>'''
+
+- file: README.md
+  search: 'bower install farol-sdk(\#.+\ )--save'
+  replacement: 'bower install farol-sdk#<@VERSION@> --save'
