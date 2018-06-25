@@ -4,7 +4,7 @@
 ### Using Bower
 
 - To install or update run ```
-bower install angular-farol-sdk#1.0.1 --save
+bower install angular-farol-sdk#1.0.2 --save
 ```
 
 ### Using NPM
