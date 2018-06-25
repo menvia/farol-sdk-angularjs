@@ -1,5 +1,5 @@
 {
-  "name": "farol-sdk-angularjs",
+  "name": "angular-farol-sdk",
   "version": "1.0.0",
   "description": "Farol SDK for AngularJS",
   "main": "dist/farol-sdk.js",
