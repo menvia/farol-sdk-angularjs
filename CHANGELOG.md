@@ -1,6 +1,7 @@
-## 1.0.5 - 1.0.6 / 2018.06.27
+## 1.0.5 - 1.0.7 / 2018.06.27
 #### Enhancement
 - Update ESLint 5.0.1
+- Fix loading
 
 ## 1.0.4 / 2018.06.25
 #### Enhancement
