@@ -20,8 +20,5 @@
   "dependencies": {
     "angular": "^1.7.2",
     "farol-sdk": "1.9.134"
-  },
-  "resolutions": {
-    "farol-sdk": "1.9.132"
   }
 }
