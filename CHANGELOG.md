@@ -1,3 +1,7 @@
+## 1.0.5 / 2018.06.27
+#### Enhancement
+- Update ESLint 5.0.1
+
 ## 1.0.4 / 2018.06.25
 #### Enhancement
 - Fix NPM dependencies
