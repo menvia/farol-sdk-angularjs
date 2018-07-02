@@ -1,3 +1,8 @@
+## 1.0.9 - 1.0.10 / 2018.06.30
+##### Dependency
+- Update [eslint-watch 4.0.0](https://github.com/rizowski/eslint-watch/releases)
+- Update [farol-sdk 1.9.138](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.0.5 - 1.0.8 / 2018.06.27
 #### Enhancement
 - Update ESLint 5.0.1
