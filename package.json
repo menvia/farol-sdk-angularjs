@@ -1,6 +1,6 @@
 {
   "name": "angular-farol-sdk",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "description": "Farol SDK for AngularJS",
   "main": "dist/angular-farol-sdk.js",
   "scripts": {
@@ -29,9 +29,9 @@
     "babel-plugin-transform-remove-strict-mode": "0.0.2",
     "babel-preset-env": "^1.7.0",
     "chai": "^4.1.2",
-    "eslint": "^5.0.1",
+    "eslint": "^5.2.0",
     "eslint-config-google": "^0.9.1",
-    "eslint-watch": "^4.0.0",
+    "eslint-watch": "^4.0.2",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -42,6 +42,9 @@
   },
   "dependencies": {
     "angular": "^1.7.2",
-    "farol-sdk": "^1.9.139"
+    "farol-sdk": "^1.10.2"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
   }
 }

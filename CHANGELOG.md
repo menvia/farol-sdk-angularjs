@@ -1,3 +1,12 @@
+## 1.1.0 / 2018.07.24
+#### Enhancement
+- Drop support for NodeJS <= 4
+
+##### Dependency
+- Update [eslint 5.2.0](https://github.com/eslint/eslint/releases) 🚀
+- Update [eslint-watch 4.0.2](https://github.com/rizowski/eslint-watch/releases) 🚀
+- Update [farol-sdk 1.10.2](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.0.11 / 2018.07.04
 ##### Dependency
 - Update [farol-sdk 1.9.139](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
