@@ -1,3 +1,9 @@
+## 1.1.2 / 2018.08.6
+##### Dependency
+- Update [eslint 5.3.0](https://github.com/eslint/eslint/releases) 🚀
+- Update [farol-sdk 1.10.11](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+- Update [gulp-uglify 3.0.1](https://github.com/terinjokes/gulp-uglify/releases) 🚀
+
 ## 1.1.0 - 1.1.1 / 2018.07.24
 #### Enhancement
 - Drop support for NodeJS <= 4
