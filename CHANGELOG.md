@@ -1,4 +1,4 @@
-## 1.1.3 / 2018.08.08
+## 1.1.3 - 1.1.4 / 2018.08.08
 ##### Dependency
 - Update [farol-sdk 1.10.13](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
 
