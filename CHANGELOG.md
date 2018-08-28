@@ -1,3 +1,9 @@
+## 1.1.5 / 2018.08.28
+##### Dependency
+- Update [angularjs 1.7.3](https://github.com/angular/angular.js/blob/master/CHANGELOG.md) 🚀
+- Update [eslint 5.4.0](https://github.com/eslint/eslint/releases) 🚀
+- Update [farol-sdk 1.11.5](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.1.3 - 1.1.4 / 2018.08.08
 ##### Dependency
 - Update [farol-sdk 1.10.13](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
