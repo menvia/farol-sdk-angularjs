@@ -1,3 +1,13 @@
+## 1.1.6 / 2018.09.27
+#### Enhancement
+- Fix farol-sdk dependency definition ⛓
+
+##### Dependency
+- Update [angularjs 1.7.4](https://github.com/angular/angular.js/blob/master/CHANGELOG.md) 🚀
+- Update [chai 4.2.0](https://github.com/chaijs/chai/releases) 🚀
+- Update [eslint 5.6.0](https://github.com/eslint/eslint/releases) 🚀
+- Update [farol-sdk 1.12.6](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.1.5 / 2018.08.28
 ##### Dependency
 - Update [angularjs 1.7.3](https://github.com/angular/angular.js/blob/master/CHANGELOG.md) 🚀
