@@ -9,7 +9,7 @@
     "switch-colon-spacing": 0
   },
   "parserOptions": {
-    "ecmaVersion": 6
+    "ecmaVersion": 8
   },
   "globals": {
     "define": true,

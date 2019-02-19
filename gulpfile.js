@@ -1,16 +1,20 @@
-let gulp = require('gulp');
-let babel = require('gulp-babel');
-let uglify = require('gulp-uglify');
-let concat = require('gulp-concat');
-let pump = require('pump');
+const gulp = require('gulp');
+const babel = require('gulp-babel');
+const uglify = require('gulp-uglify');
+const concat = require('gulp-concat');
+const pump = require('pump');
 
-let job = function(cb, debug) {
-  let pumpSteps = [
+const job = function(cb, debug) {
+  const pumpSteps = [
     gulp.src([
       'src/index.js',
     ]),
     babel({
-      presets: ['env'],
+      presets: ['@babel/preset-env'],
+      plugins: [
+        '@babel/plugin-transform-strict-mode',
+      ],
+      ignore: ['dist/', 'node_modules'],
     }),
     concat('angular-farol-sdk.js'),
   ];
@@ -26,11 +30,11 @@ let job = function(cb, debug) {
   pump(pumpSteps, cb);
 };
 
-let debug = function(cb) {
+const debug = function(cb) {
   job(cb, true);
 };
 
-let production = function(cb) {
+const production = function(cb) {
   job(cb, false);
 };
 

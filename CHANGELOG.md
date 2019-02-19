@@ -1,6 +1,16 @@
+## 1.2.0 / 2019.02.19
+#### Enhancement
+- Fix all ESLint errors 👨🏻‍🚒
+
+##### Dependency
+- Update [eslint 5.14.1](https://github.com/eslint/eslint/releases) 🚀
+- Update [farol-sdk 1.14.1](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+- Update [mocha 6.0.0](https://github.com/mochajs/mocha/releases) 🚀
+
 ## 1.1.7 / 2018.11.17
 ##### Dependency
 - Update [angularjs 1.7.5](https://github.com/angular/angular.js/blob/master/CHANGELOG.md) 🚀
+- Update [babel 7.3.3](https://github.com/babel/babel/releases) 🚀
 - Update [eslint 5.9.0](https://github.com/eslint/eslint/releases) 🚀
 - Update [eslint-config-google 0.11.0](https://github.com/google/eslint-config-google/releases) 🚀
 - Update [farol-sdk 1.13.0](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀

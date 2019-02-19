@@ -17,8 +17,8 @@
 }(this, function(angular) {
   'use strict';
   // create your angular module and do stuff
-  let moduleName = 'FarolSDK';
-  let mod = angular.module(moduleName, []);
+  const moduleName = 'FarolSDK';
+  const mod = angular.module(moduleName, []);
   /**
    * FarolSDK Angular Provider
    * @param  {Object} $injector Angular injector
