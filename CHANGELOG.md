@@ -1,3 +1,9 @@
+## 1.2.1 - 1.2.2 / 2019.02.19
+
+##### Dependency
+
+- Update [farol-sdk 1.14.2](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.2.0 / 2019.02.19
 #### Enhancement
 - Fix all ESLint errors 👨🏻‍🚒

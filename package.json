@@ -1,6 +1,6 @@
 {
   "name": "angular-farol-sdk",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Farol SDK for AngularJS",
   "main": "dist/angular-farol-sdk.js",
   "scripts": {
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "angular": "^1.7.7",
-    "farol-sdk": "^1.14.1"
+    "farol-sdk": "^1.14.2"
   },
   "engines": {
     "node": ">= 6.0.0"
