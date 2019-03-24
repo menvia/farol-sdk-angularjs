@@ -1,3 +1,9 @@
+## 1.2.3 / 2019.03.24
+
+##### Dependency
+
+- Update [farol-sdk 1.15.0](https://bitbucket.org/menvia/farol-sdk-javascript/src/master/CHANGELOG.md) 🚀
+
 ## 1.2.1 - 1.2.2 / 2019.02.19
 
 ##### Dependency
