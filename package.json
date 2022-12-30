@@ -36,7 +36,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.2",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "pump": "^3.0.0",
     "upver": "^1.0.0"
   },
